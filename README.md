@@ -11,29 +11,37 @@
 ---
 
 ### 🧑‍💻 About Me
-🎓 Student Developer @ DSHS (대구소프트웨어고등학교)
-🔭 Currently building full-stack web apps
-🦀 Exploring Rust & systems programming
-⚡ Interested in: Web · Game · Embedded · Security
+
+🎓  Student Developer @ DSHS (대전대신고등학교)
+🔭  Currently building full-stack web apps
+🦀  Exploring Rust & systems programming
+⚡  Interested in: Web · Game · Embedded · Security
 
 ---
+
 ### 🛠️ Tech Stack
+
 <img src="https://skillicons.dev/icons?i=py,java,cs,rust,js,ts,react,nextjs,tailwind,html,css,nodejs,nestjs,spring,postgres,supabase,firebase,flutter,dart,unity,blender,git,github,npm,docker,ubuntu,kali,raspberrypi,vscode,visualstudio,idea,powershell,bash&perline=11&theme=dark" />
+
 ---
+
 ### 📊 GitHub Stats
+
 <div align="center">
+
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=kmc11004&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmc11004&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
 </div>
+
 <div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=kmc11004&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
 </div>
+
 ---
-### 🏆 Trophies
-<div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=kmc11004&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
----
+
 <div align="center">
 <sub><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></sub>
 </div>
