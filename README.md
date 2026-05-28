@@ -13,11 +13,11 @@
 
 ### 🧑‍💻 About Me
 
-🎓  Student Developer @ DSHS (대전대신고등학교)
-🔭  Currently building full-stack web apps
-🦀  Exploring Rust & systems programming
-⚡  Interested in: Web · Game · Embedded · Security
-💬  Instagram @km1cx
+🎓 Student Developer @ DSHS (대전대신고등학교)
+🔭 Currently building full-stack web apps
+🦀 Exploring Rust & systems programming
+⚡ Interested in: Web · Game · Embedded · Security
+💬 Instagram @km1cx
 
 ---
 
