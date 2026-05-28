@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+kmc+%F0%9F%91%8B;Full-Stack+%26+Systems+Developer;Always+building+something+new" alt="Typing SVG" />
@@ -16,6 +17,7 @@
 🔭  Currently building full-stack web apps
 🦀  Exploring Rust & systems programming
 ⚡  Interested in: Web · Game · Embedded · Security
+💬  Instagram @km1cx
 
 ---
 
